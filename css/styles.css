@@ -1,0 +1,135 @@
+
+#title{
+    background-color:#ff4c68
+}
+
+
+
+.container{
+  padding: 3% 15%;
+  text-decoration: none;
+}
+
+#dogpic{
+  width: 85%;
+  padding: 5%;
+  transform: rotate(15deg);
+}
+
+
+#pageheading{
+  font-family: "Montserrat-black";
+  font-size: 4.5rem;
+  font-weight: bold;
+  color: white;
+  padding: 5%;
+}
+
+.navbar-brand{
+  font-size: 40px !important;
+}
+
+
+
+.box-feature{
+  text-align: center;
+  padding: 5%;
+}
+
+.icon{
+  padding: 4%;
+  color: pink;
+}
+
+h3{
+  font-family: "Montserrat-bold";
+  font-weight: bold;
+}
+
+
+
+.paragraph{
+  color: grey;
+}
+
+#testimonials{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: pink;
+}
+
+.dog-pic{
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press{
+  background-color: pink;
+  padding: 5%;
+  text-align: center;
+}
+
+.press-pic{
+  margin: 20px;
+  width: 15%;
+}
+
+.testimonial-heading{
+  color: white;
+  font-family: "Montserrat-black";
+  font-size: 4rem;
+}
+
+.testimonial-text{
+  color: white;
+  font-family: "Montserrat-black";
+  font-size: 4rem;
+}
+
+.testimonial-image{
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#pricing{
+  padding: 7% 15%;
+}
+
+.card{
+  margin: 10px;
+  padding: 5%;
+  text-align: center;
+
+}
+
+.card-header{
+  font-weight: bold;
+  font-size: 6rem;
+}
+
+#cta{
+  background-color: #FFA1F4;
+  padding: 7%;
+  color: white;
+  font-family: "Montserrat-black";
+  text-align: center;
+}
+
+#footer{
+  text-align: center;
+  margin: 5px;
+  padding: 3%;
+}
+
+.cta-txt{
+  color: white;
+  font-family: "Montserrat-black";
+  font-size: 3rem;
+}
+
+.downloadbutton{
+  margin: 10px;
+  padding: 5%;
+}
